@@ -1,0 +1,83 @@
+@font-face {
+	font-family: 'Conv_MyriadPro-Black';
+	src: url('../fonts/MyriadPro-Black.eot');
+	src: local('☺'), url('../fonts/MyriadPro-Black.woff') format('woff'), url('../fonts/MyriadPro-Black.ttf') format('truetype'), url('../fonts/MyriadPro-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_MyriadPro-BlackCond';
+	src: url('../fonts/MyriadPro-BlackCond.eot');
+	src: local('☺'), url('../fonts/MyriadPro-BlackCond.woff') format('woff'), url('../fonts/MyriadPro-BlackCond.ttf') format('truetype'), url('../fonts/MyriadPro-BlackCond.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_MyriadPro-Regular';
+	src: url('../fonts/MyriadPro-Regular.eot');
+	src: local('☺'), url('../fonts/MyriadPro-Regular.woff') format('woff'), url('../fonts/MyriadPro-Regular.ttf') format('truetype'), url('../fonts/MyriadPro-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'sh_futura_demiboldbold';
+    src: url('../fonts/futura_demi-webfont.eot');
+    src: url('../fonts/futura_demi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futura_demi-webfont.woff2') format('woff2'),
+         url('../fonts/futura_demi-webfont.woff') format('woff'),
+         url('../fonts/futura_demi-webfont.ttf') format('truetype'),
+         url('../fonts/futura_demi-webfont.svg#sh_futura_demiboldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'futura_bookregular';
+    src: url('../fonts/futura-book-webfont.eot');
+    src: url('../fonts/futura-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futura-book-webfont.woff2') format('woff2'),
+         url('../fonts/futura-book-webfont.woff') format('woff'),
+         url('../fonts/futura-book-webfont.ttf') format('truetype'),
+         url('../fonts/futura-book-webfont.svg#futura_bookregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'futuramedium_italic';
+    src: url('../fonts/futurabt-mediumitalic-webfont.eot');
+    src: url('../fonts/futurabt-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futurabt-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/futurabt-mediumitalic-webfont.woff') format('woff'),
+         url('../fonts/futurabt-mediumitalic-webfont.ttf') format('truetype'),
+         url('../fonts/futurabt-mediumitalic-webfont.svg#futuramedium_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sh_futura_mediumregular';
+    src: url('../fonts/futura_medium-webfont.eot');
+    src: url('../fonts/futura_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futura_medium-webfont.woff2') format('woff2'),
+         url('../fonts/futura_medium-webfont.woff') format('woff'),
+         url('../fonts/futura_medium-webfont.ttf') format('truetype'),
+         url('../fonts/futura_medium-webfont.svg#sh_futura_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futurademicregular';
+    src: url('../fonts/futurademic-webfont.eot');
+    src: url('../fonts/futurademic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futurademic-webfont.woff2') format('woff2'),
+         url('../fonts/futurademic-webfont.woff') format('woff'),
+         url('../fonts/futurademic-webfont.ttf') format('truetype'),
+         url('../fonts/futurademic-webfont.svg#futurademicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

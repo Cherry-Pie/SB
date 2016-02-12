@@ -1,0 +1,19 @@
+{
+  "name": "Starteq",
+  "version": "1.0.0",
+  "description": "Starteq database",
+  "main": "server.js",
+  "author": "EVNE",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-watch": "^4.3.5",
+    "gulp-autoprefixer": "*",
+    "gulp-plumber": "*",
+    "gulp-less": "*"
+  },
+  "dependencies": {
+  }
+}
